@@ -1,0 +1,23 @@
+Criar ambiente virtual:
+python -m venv venv
+
+Ativar ambiente virtual:
+venv\Scripts\Activate
+
+atualizacoes:
+python -m ensurepip --upgrade
+
+atualizacoes:
+python -m pip install --upgrade pip setuptools wheel
+
+Instalar libs do projeto:
+python -m pip install -r requirements.txt
+
+visualizar libs do projeto:
+python -m pip list
+
+iniciar Jupyter com o ambiente preparado:
+Comando 1:
+python -m ipykernel install --user --name ProjetoAnaliseDeVendas-venv --display-name "Python (ProjetoAnaliseDeVendas venv)"
+Comando 2:
+jupyter notebook
