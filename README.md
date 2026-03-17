@@ -5,6 +5,7 @@ Para preparar o ambiente e visualizar os dados faça o clone do projeto, após o
 As dependências/libs do projeto estão disponíveis em requirements.txt, instaladas a partir dos passos/instruções em IntrucoesAmbienteProjeto.txt, após clone, preparar ambiente e com ambiente virtual criado o comando "jupyter notebook" abrirá o navegador onde poderá ser aberto o arquivo AnaliseDeVendasE-Commerce.ipynb onde podemos visualizar as análises e manipular conforme o necessário.
 
 Ambiente montado final exemplo (VsCode):
+
 <img width="377" height="243" alt="image" src="https://github.com/user-attachments/assets/a1faf4ce-a051-41d4-94da-5472ce9ecde6" />
 
 Terminal após rodar o Jupyter exemplo (VsCdoe), nesse ponto será aberto o navegador:
